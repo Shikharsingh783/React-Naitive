@@ -1,0 +1,1 @@
+export const imageUri = 'https://4409803.fs1.hubspotusercontent-na1.net/hubfs/4409803/react-native%20%281%29.png'
